@@ -4,5 +4,3 @@ hello git
 hello git
 
 wpa dd
-ffdf
-ff
